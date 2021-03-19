@@ -23,4 +23,6 @@ Select the correct star count you can select a single number or you can select m
 
 ## What the app looks like
 
-![alt text]()
+![alt text](https://github.com/cengizhankose/react-star-match-game/blob/master/Screenshot%202021-03-19%20175421.png)
+![alt text](https://github.com/cengizhankose/react-star-match-game/blob/master/Screenshot%202021-03-19%20175540.png)
+![alt text](https://github.com/cengizhankose/react-star-match-game/blob/master/Screenshot%202021-03-19%20175542.png)
